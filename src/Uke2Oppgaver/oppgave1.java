@@ -16,10 +16,18 @@ public class oppgave1 {
             }
         }
         return m;
+
     }
+    /*
+    public static int min(int[]a) throws IllegalAccessException {
+        return min(a,0,a.length);
+    }
+
+     */
     public static void main(String [] args) throws IllegalAccessException {
         int [] a={3,4,8,9,3,6,88,79,45,67,3,1};
-        int min=min(a,0,11);
+        int min=min(a,0,a.length);
         System.out.println(min);
+        
     }
 }

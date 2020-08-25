@@ -1,6 +1,7 @@
 
 public class forelesning1 {
 
+    /*
     public static void main(String[] args) {
         int[] a = {17, 11, 4, 3};
 
@@ -17,4 +18,7 @@ public class forelesning1 {
         }
         return max_value;
     }
+
+     */
+
 }
